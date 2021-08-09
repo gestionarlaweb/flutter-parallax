@@ -1,7 +1,7 @@
 # parallax
 
 Efecto Parallax
-![Screenshot](/assets/images/imageApp.png)
+![Screenshot](/parallax/assets/images/imageApp.png)
 
 ## Sobre la App
 
