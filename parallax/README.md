@@ -1,7 +1,7 @@
 # parallax
 
 Efecto Parallax
-![Alt text](/assets/images/imageApp.png)
+![Screenshot](/assets/images/imageApp.png)
 
 ## Sobre la App
 
@@ -25,4 +25,4 @@ Aquí está la mágia. Esto le dará un efecto de suavidad al deslizar el scroll
 alignment:
   Alignment(-pageOffset.abs() + i, 0),
 ```
-![Alt text](/assets/images/video.gif)
+![Screenshot](/assets/images/video.gif)
